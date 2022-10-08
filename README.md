@@ -5,6 +5,6 @@ Landing page based on the materials of the article Cognitive Biases in Programmi
 
 This project is a part of [Layout Designer](https://ru.hexlet.io/professions/layout-designer) course by [Hexlet](https://ru.hexlet.io/).
 
-You can see the result of the work [here](https://hawkprimarch.github.io/layout-designer-project-58/src/).
+You can see the result of the work [here](https://hawkprimarch.github.io/Cognitive-Distortions/src/).
 ### Hexlet tests:
 [![Actions Status](https://github.com/hawkprimarch/layout-designer-project-58/workflows/hexlet-check/badge.svg)](https://github.com/hawkprimarch/layout-designer-project-58/actions)
