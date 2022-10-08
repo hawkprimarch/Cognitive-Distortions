@@ -1,4 +1,4 @@
-/* csslint ignore:start */
+/* stylelint-disable */
 * {
   box-sizing: border-box;
 }
@@ -517,4 +517,4 @@ footer {
 .materials-link {
   margin-bottom: 16px;
 }
-/* csslint ignore:end */
+/* stylelint-enable */
