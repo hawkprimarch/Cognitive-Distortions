@@ -7,4 +7,4 @@ This project is a part of [Layout Designer](https://ru.hexlet.io/professions/lay
 
 You can see the result of the work [here](https://hawkprimarch.github.io/Cognitive-Distortions/src/).
 ### Hexlet tests:
-[![Actions Status](https://github.com/hawkprimarch/layout-designer-project-58/workflows/hexlet-check/badge.svg)](https://github.com/hawkprimarch/layout-designer-project-58/actions)
+[![Actions Status](https://github.com/hawkprimarch/Cognitive-Distortions/workflows/hexlet-check/badge.svg)](https://github.com/hawkprimarch/Cognitive-Distortions/actions)
