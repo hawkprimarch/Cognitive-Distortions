@@ -34,9 +34,6 @@
   --ligthGrey: #757575;
 }
 
-
-/* BASIC & HEADER */
-
 body {
   color: var(--dark);
   font-size: 16px;
@@ -47,7 +44,7 @@ body {
 }
 
 .container {
-  max-width: 1110px;
+  width: 1110px;
   margin: 0 auto;
 }
 
@@ -127,7 +124,7 @@ p {
   width: 100%;
   height: 100%;
 
-  background-image: url("../images/background-pattern.png");
+  background-image: url("../images/background.png");
   background-repeat: no-repeat;
   background-size: cover;
   opacity: 0.1;
@@ -140,7 +137,7 @@ p {
 }
 
 .white-text {
-  color: var(--white); 
+  color: var(--white);
 }
 
 .header-title {
@@ -184,9 +181,8 @@ p {
   margin-bottom: 100px;
 }
 
-/* ABOUT */
-
 .about {
+
   text-align: center;
 }
 
@@ -204,11 +200,8 @@ p {
 
   margin-bottom: -200px;
 
-  filter: drop-shadow(0 16px 32px rgba(0 0 0 / 15%));
+  filter: drop-shadow(0 16px 32px rgba(0, 0, 0, 0.15));
 }
-
-
-/* COGNITIVE BIASES */
 
 .cognitive-biases {
   padding-top: 150px;
@@ -233,6 +226,14 @@ p {
   background-color: var(--light);
 }
 
+.cognitive-biases-link {
+  text-decoration: none;
+}
+
+.white-color {
+  color: var(--white);
+}
+
 .cognitive-biases-item-description {
   padding: 0;
 
@@ -242,14 +243,6 @@ p {
 .cognitive-biases-list-description {
   font-weight: 400;
   font-size: 52px;
-}
-
-.white-color {
-  color: var(--white);
-}
-
-.cognitive-biases-link {
-  text-decoration: none;
 }
 
 .cognitive-biases-item-count {
@@ -289,8 +282,6 @@ p {
 .cognitive-biases-item:not(:first-child):hover .cognitive-biases-description {
   color: var(--white);
 }
-
-/* 4 blocks */
 
 .card {
   position: relative;
@@ -418,9 +409,6 @@ p {
   padding-right: 10px;
 }
 
-
-/* FOOTER */
-
 footer {
   padding: 100px 0;
 }
@@ -495,10 +483,6 @@ footer {
 
 .btn-submit-footer:hover {
   background: var(--darkOrange);
-}
-
-.footer-links:hover {
-  color: var(--basic);
 }
 
 .btn-submit-footer::before {
